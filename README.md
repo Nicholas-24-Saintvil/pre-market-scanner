@@ -1,4 +1,4 @@
-# Pre-Market News Scanner
+# Market Catalyst Ranking Tool
 
 CLI tool that finds pre-market stock gainers, pulls recent headlines, and ranks them using a keyword-based catalyst score.
 
